@@ -1,0 +1,15 @@
+C:\Users\chris\.vscode\pa5_provision\bin\Debug\net7.0\pa5_provision.exe
+C:\Users\chris\.vscode\pa5_provision\bin\Debug\net7.0\pa5_provision.deps.json
+C:\Users\chris\.vscode\pa5_provision\bin\Debug\net7.0\pa5_provision.runtimeconfig.json
+C:\Users\chris\.vscode\pa5_provision\bin\Debug\net7.0\pa5_provision.dll
+C:\Users\chris\.vscode\pa5_provision\bin\Debug\net7.0\pa5_provision.pdb
+C:\Users\chris\.vscode\pa5_provision\obj\Debug\net7.0\pa5_provision.csproj.AssemblyReference.cache
+C:\Users\chris\.vscode\pa5_provision\obj\Debug\net7.0\pa5_provision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\.vscode\pa5_provision\obj\Debug\net7.0\pa5_provision.AssemblyInfoInputs.cache
+C:\Users\chris\.vscode\pa5_provision\obj\Debug\net7.0\pa5_provision.AssemblyInfo.cs
+C:\Users\chris\.vscode\pa5_provision\obj\Debug\net7.0\pa5_provision.csproj.CoreCompileInputs.cache
+C:\Users\chris\.vscode\pa5_provision\obj\Debug\net7.0\pa5_provision.dll
+C:\Users\chris\.vscode\pa5_provision\obj\Debug\net7.0\refint\pa5_provision.dll
+C:\Users\chris\.vscode\pa5_provision\obj\Debug\net7.0\pa5_provision.pdb
+C:\Users\chris\.vscode\pa5_provision\obj\Debug\net7.0\pa5_provision.genruntimeconfig.cache
+C:\Users\chris\.vscode\pa5_provision\obj\Debug\net7.0\ref\pa5_provision.dll
